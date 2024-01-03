@@ -54,6 +54,14 @@ pip install SQLAlchemy==2.0.23
 
 Install the above requirements.
 
+Let us understand the Question that we asked for this demo purpose -
+
+![Question.jpg](Question.jpg)
+
+And, here is the SQL that the application generates dynamically based on the metadata of the source files -
+
+![Answer.jpg](Answer.jpg)
+
 Note that the debug indicator is set to "Y". This will generate logs. If you change this to 'N'. No logs will be generated. However, the process will be faster.
 
 ## Screenshots
